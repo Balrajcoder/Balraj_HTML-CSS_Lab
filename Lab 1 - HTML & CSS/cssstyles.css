@@ -1,13 +1,13 @@
-body{
+body {
     margin: 0;
-    background-color: rgba(255,255,255,0.548);
+    background-color: rgba(255, 255, 255, 0.548);
 }
 
-video{
+video {
     position: fixed;
 }
 
-div{
+div {
     position: absolute;
     top: 15%;
     left: 35%;
@@ -17,7 +17,7 @@ div{
     padding-left: 40px;
 }
 
-input{
+input {
     width: 300px;
     min-width: 100px;
     border: none;
@@ -27,13 +27,13 @@ input{
     background-color: whitesmoke;
 }
 
-input:focus{
+input:focus {
     outline: none;
     color: white;
-    background-color: rgba(58, 78, 95,0.35);
+    background-color: rgba(58, 78, 95, 0.35);
 }
 
-button{
+button {
     margin: 20px;
     width: 80px;
     height: 30px;
